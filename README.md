@@ -31,44 +31,16 @@
     <img src="images/anime.png" width="500px" alt="Programming Language"/></a>
 </p>
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/alinaserinia6/github-readme-streak-stats -->
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alinaserinia6&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alinaserinia6's Github Stats" src="https://alinaserinia6-github-readme-stats.vercel.app/api/?username=alinaserinia6&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alinaserinia6's Top Languages" src="https://alinaserinia6-github-readme-stats.vercel.app/api/top-langs/?username=alinaserinia6&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="alinaserinia6's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=alinaserinia6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#340](https://github.com/torahcalc/torahcalc/pull/340) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 💪 Opened PR [#340](https://github.com/torahcalc/torahcalc/pull/340) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. ❌ Closed PR [#406](https://github.com/alinaserinia6/readme-typing-svg/pull/406) in [alinaserinia6/readme-typing-svg](https://github.com/alinaserinia6/readme-typing-svg)
-4. 💪 Opened PR [#332](https://github.com/torahcalc/torahcalc/pull/332) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 🎉 Merged PR [#331](https://github.com/torahcalc/torahcalc/pull/331) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-<!--END_SECTION:activity-->
-
-</details>
+<h3>🔥 Streak Stats</h3>
+<!-- GitHub Readme Streak Stats - https://github.com/alinaserinia6/github-readme-streak-stats -->
+<p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alinaserinia6&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+<h3>💻 GitHub Profile Stats</h3>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alinaserinia6&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alinaserinia6&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
 
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
