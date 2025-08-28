@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://youtube.com/@alinaserinia6?si=2BaeZJCRI9anQzmT"><img width="40px" alt="Youtube" title="Youtube" src="images/youtube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="images/linkdin.svg"/></a>
+  <a href="https://www.linkedin.com/in/alinaserinia6/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="images/linkdin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/helloworld1383"><img width="40px" alt="Twitter" title="Twitter" src="images/telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -29,30 +29,20 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alinaserinia6&theme=hacker&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+<br/>
+
+# </> WhoAmI?
+**`Computer Engineer (Developer/Researcher/Hacker 👀)`**
+
+I'm student in "[Amirkabir University of Technology][AUT]" and also work in "[Mahsan Company][MAHSAN]". <br/>
+I'm interested in linux, network, c++ and ethical hacking. <br/>
+I recently became interested in the RUST programming language. I would like to thank [Mr. Kalbasi][KALBASI].
+
 <h3>💻 GitHub Profile Stats</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alinaserinia6&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alinaserinia6&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true" height="192px"/></a>
-<br/>
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@alinaserinia6"><img src="https://holopin.me/alinaserinia6" alt="@alinaserinia6&#39;s Holopin board"></a></p>
-</details>
-
-- 👋 Hi, I’m @alinaserinia6
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++, java, python
-- 📫 How to reach me 
-  -   [Quera](https://quera.org/profile/4ckygt)
-  -   [Codeforces](https://codeforces.com/profile/Ya_Ali)
-  -   [Email](mailto:naseriniaa@gmail.com)
--   
-- live in Iran
-- University student
-- [Amirkabir university](https://aut.ac.ir/)
-<!---
-alinaserinia6/alinaserinia6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[AUT]: https://aut.ac.ir
+[MAHSAN]: https://mahsan.co
+[KALBASI]: https://github.com/HKalbasi
