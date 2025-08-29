@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/alinaserinia6/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="images/linkdin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/helloworld1383"><img width="40px" alt="Twitter" title="Twitter" src="images/telegram.svg"/></a>
+  <a href="https://t.me/helloworld1383"><img width="40px" alt="Telegram" title="Telegram" src="images/telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/alinaserinia6?utm_source=qr&igsh=MXdjdGs0ZzRtNHh4YQ==" alt="Instagram" title="Instagram"><img width="40px" src="images/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
